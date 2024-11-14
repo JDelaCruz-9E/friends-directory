@@ -1,0 +1,19 @@
+:root {
+  --animate-delay: 10s;
+}
+
+body {
+	background-color: lightgoldenrodyellow;
+	color: orangered;
+	font-family: "Sour Gummy", sans-serif;
+}
+
+.container {
+	background-color: orange;
+	margin-top: 30px;
+}
+
+img {
+	width: 200px;
+}
+
